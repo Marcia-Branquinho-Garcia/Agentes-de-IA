@@ -15,8 +15,7 @@ Este projeto utiliza múltiplos agentes de IA trabalhando juntos para criar rote
 4. Receba seu conteúdo pronto para uso!
 
 ## Exemplos de Uso
-O sistema foi testado com diversos temas como tutoriais, conteúdo educacional e temas religiosos como Provérbios 31, demonstrando sua flexibilidade e eficácia.
-
+O sistema foi testado com temas cristãos 
 ## Tecnologias Utilizadas
 - Google Gemini API
 - Python
