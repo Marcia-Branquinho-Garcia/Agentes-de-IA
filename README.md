@@ -22,7 +22,7 @@ O sistema foi testado com temas cristãos
 - Google Colab
 
 ## Demonstração
-[Link para o vídeo de demonstração]
+[https://www.youtube.com/shorts/I3xTJea1Gyo]
 
 ## Autor
 Marcia Branquinho Garcia
